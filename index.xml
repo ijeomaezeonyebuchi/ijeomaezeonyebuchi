@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ijeoma Ezeonyebuchi</title>
-    <link>https://ijeomaezeonyebuchi.github.io/</link>
+    <link>https://ijeomaezeonyebuchi.github.io/index.html/</link>
     <description>Recent content on Ijeoma Ezeonyebuchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://ijeomaezeonyebuchi.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ijeomaezeonyebuchi.github.io/index.html/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
